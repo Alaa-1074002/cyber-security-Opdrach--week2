@@ -1,0 +1,13 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+SQLAlchemy
+Werkzeug
+marshmallow
+openai
+Jinja2
+requests
+flask-cors
+Flask-SocketIO
+schedule
+flask-talisman
