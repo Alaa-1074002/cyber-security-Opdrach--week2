@@ -11,3 +11,6 @@ flask-cors
 Flask-SocketIO
 schedule
 flask-talisman
+flask_limiter
+bleach
+cryptography
